@@ -5,6 +5,6 @@
 # What's This Bot?
 **This bot is capturing real-time market price.**
 ```js
-I'll add upgrade.
-For now, this bot only capturing BTC To TRY real-time market price.
+console.log("I'll add upgrade").
+console.log("For now, this bot only capturing BTC To TRY real-time market price.")
 ```
