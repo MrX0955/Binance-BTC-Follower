@@ -1,6 +1,6 @@
 # Binance-BTC-Follower
 
-***API Scrapped Here -->*** <a href="https://www.binance.com/tr/trade/BTC_TRY?theme=dark&type=spot">CLICK!</a>
+<h2>***API Scrapped Here -->*** <a href="https://www.binance.com/tr/trade/BTC_TRY?theme=dark&type=spot">CLICK!</a></h2>
 
 # What's This Bot?
 <h3>This bot is capturing real-time market price.</h3>
